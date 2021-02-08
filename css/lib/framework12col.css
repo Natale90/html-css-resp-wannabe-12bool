@@ -7,7 +7,6 @@
 
 .container_fluid{
   width: 100%;
-  padding: 80px 0px;
 }
 
 
@@ -21,7 +20,7 @@
   float: left;
   /* debug */
   border: 1px solid black;
-  height: 300px;
+  /* height: 300px; */
 }
 
 /* REGOLE COLONNE desktop-versio  LG */
