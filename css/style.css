@@ -1,0 +1,51 @@
+body{
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+
+section{
+  padding:0 200px;
+  margin-top: 50px;
+}
+
+section:nth-child(2), section:last-child{
+  background-color: #f9f9f9;
+}
+
+.col-lg-6{
+  /* regole di debug */
+  border: 1px solid green;
+}
+
+.col-lg-4{
+  /* regole di debug */
+  border: 1px solid green;
+}
+
+section .section_title{
+  text-align: center;
+  font-size: 2rem;
+}
+
+section .row img{
+  width: auto;
+  height: 200px;
+}
+
+#lezioni, #steps, #why{
+  text-align: center;
+  /* debug */
+}
+
+#why .first, .second, .third{
+  border: 1px solid green;
+}
+
+#why img{
+  width: auto;
+  height: 250px;
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 20px;
+  margin: auto;
+}
