@@ -18,16 +18,6 @@ section:nth-child(2), section:last-child{
   background-color: #f9f9f9;
 }
 
-.col-lg-6{
-  /* regole di debug */
-  border: 1px solid green;
-}
-
-.col-lg-4{
-  /* regole di debug */
-  border: 1px solid green;
-}
-
 section .section_title{
   text-align: center;
   font-size: 2rem;
@@ -49,11 +39,9 @@ section .row img{
 
 #lezioni, #steps, #why{
   text-align: center;
-  /* debug */
 }
 
 #why .first, .second, .third{
-  border: 1px solid green;
   padding: 15px 0;
 }
 

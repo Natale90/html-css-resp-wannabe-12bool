@@ -18,9 +18,6 @@
 
 [class*="col-"]{
   float: left;
-  /* debug */
-  border: 1px solid black;
-  /* height: 300px; */
 }
 
 /* REGOLE COLONNE desktop-versio  LG */
